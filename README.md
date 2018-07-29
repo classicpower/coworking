@@ -6,7 +6,7 @@ Coworking | Обучающий проект Loftschool
 <hr>
 Содержание:<br>
 [Интро](https://classicpower.github.io/coworking/)<br>
-[Главная](https://classicpower.github.io/main.html)<br>
-[Отзывы](https://classicpower.github.io/reviews.html)<br>
-[Тарифы](https://classicpower.github.io/prices.html)<br>
+[Главная](https://classicpower.github.io/coworking/main.html)<br>
+[Отзывы](https://classicpower.github.io/coworking/reviews.html)<br>
+[Тарифы](https://classicpower.github.io/coworking/prices.html)<br>
 
