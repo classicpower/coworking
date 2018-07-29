@@ -425,7 +425,7 @@ body {
   height: 100%;
 }
 body {
-  background: url(/img/index/intro-logo.jpg) no-repeat center center fixed;
+  background: url('../img/index/intro-logo.jpg') no-repeat center center fixed;
   background-size: cover;
   overflow: hidden;
   z-index: 0;
@@ -462,7 +462,7 @@ body.overlay:before {
 .logo {
   width: 161px;
   height: 119px;
-  background: url(/img/index/logo.png) no-repeat;
+  background: url('../img/index/logo.png') no-repeat;
   margin-bottom: 30px;
   z-index: 2;
 }
